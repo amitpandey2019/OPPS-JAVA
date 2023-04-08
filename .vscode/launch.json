@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "amit",
+            "request": "launch",
+            "mainClass": "amit",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch First2",
+            "request": "launch",
+            "mainClass": "First2",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Que",
+            "request": "launch",
+            "mainClass": "Que",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch awtReg",
+            "request": "launch",
+            "mainClass": "awtReg",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_9b994974"
+        }
+    ]
+}
